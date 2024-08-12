@@ -29,7 +29,7 @@
     "uuid": "^10.0.0"
   },
   "bugs": {
-    "url": "https://github.com/PrastianHD/plume-testnet/issues"
+    "url": "https://github.com/wilsntlntno/pluume/issues"
   },
-  "homepage": "https://github.com/PrastianHD/plume-testnet#readme"
+  "homepage": "https://github.com/wilsntlntno/pluume#readme"
 }
